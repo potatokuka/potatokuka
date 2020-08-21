@@ -1,8 +1,8 @@
 <table>
 	<tr>
 		<td>Hi, I'm **Griffin**!</td>
-	<blockquote>From California, now in Amsterdam.
-*Currently:*</blockquote>
+	<p style="text-indent: 40px">From California, now in Amsterdam.
+*Currently:*</p>
 Student at ***Codam Coding College***, in Amsterdam.
 Traveled the world for work for a few years. You can find
 a mixture of school projects and personal tidbits here!
