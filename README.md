@@ -3,11 +3,10 @@ Hi, I'm **Griffin**!
 From California, now in Amsterdam.
 
 
-__Currently:__
-	Student at *Codam Coding College*, in Amsterdam.
-
-Traveled the world for a few years working, now learning to code.
-But, excited that I have started this journey.
+*Currently:*
+	Student at ***Codam Coding College***, in Amsterdam.
+Traveled the world for work for a few years. Now you can find
+some of my school projects here.
 
 <!--
 **potatokuka/potatokuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
