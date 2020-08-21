@@ -1,8 +1,8 @@
 <table>
 	<tr>
 		<td>Hi, I'm **Griffin**!</td>
-	From California, now in Amsterdam.
-*Currently:*
+	<blockquote>From California, now in Amsterdam.
+*Currently:*</blockquote>
 Student at ***Codam Coding College***, in Amsterdam.
 Traveled the world for work for a few years. You can find
 a mixture of school projects and personal tidbits here!
