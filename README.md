@@ -1,4 +1,7 @@
-<img src="https://octodex.github.com/images/privateinvestocat.jpg">
+> <img src="https://octodex.github.com/images/privateinvestocat.jpg"> <
+
+					Hi, I'm **Griffin**!
+
 From California, now in Amsterdam. Traveled the world for a few years working, now learning to code.
 Interesting in Red Team pentesting, but in general anything security related.
 But, excited that I have started this journey.
