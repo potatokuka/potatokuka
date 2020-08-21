@@ -1,13 +1,10 @@
-<table>
-	<tr>
-		<td>Hi, I'm **Griffin**!</td>
-	<p style="text-indent: 40px">From California, now in Amsterdam.
-*Currently:*</p>
+<center>Hi, I'm **Griffin**!
+From California, now in Amsterdam.
+*Currently:*
 Student at ***Codam Coding College***, in Amsterdam.
 Traveled the world for work for a few years. You can find
 a mixture of school projects and personal tidbits here!
-	</tr>
-</table>
+</center>
 <!--
 **potatokuka/potatokuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
