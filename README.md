@@ -1,4 +1,5 @@
-From California to Latvia, now in Amsterdam. Traveled the world for a few years working, now on a journey to learn to code.
+<img src="https://octodex.github.com/images/grim-repo.jpg">
+From California, now in Amsterdam. Traveled the world for a few years working, now learning to code.
 Interesting in Red Team pentesting, but in general anything security related.
 But, excited that I have started this journey.
 
