@@ -1,6 +1,6 @@
 <p align="center">
-Hi, I'm <strong>Griffin!</strong><br>
-	From California, now in Amsterdam.<br>
+Hi, I'm <strong>Griffin!</strong>
+<br>From California, now in Amsterdam.<br>
 <i>Currently:</i><br>
 Student at ***Codam Coding College***, in Amsterdam.<br>
 Traveled the world for work for a few years.<br>
