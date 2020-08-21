@@ -1,5 +1,5 @@
 <p align="center">
-<p style="font-family:courier;">This is a paragraph.</p>
+<p style="font-family:courier;">
 Hi, I'm <strong>Griffin!</strong>
 <br>From California, now in Amsterdam.<br>
 <i>Currently:</i><br>
