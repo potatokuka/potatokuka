@@ -1,13 +1,14 @@
-> <img src="https://octodex.github.com/images/privateinvestocat.jpg"> <
-
 Hi, I'm **Griffin**!
 
-From California, now in Amsterdam. Traveled the world for a few years working, now learning to code.
-Interesting in Red Team pentesting, but in general anything security related.
+From California, now in Amsterdam.
+
+
+__Currently:__
+	Student at *Codam Coding College*, in Amsterdam.
+
+Traveled the world for a few years working, now learning to code.
 But, excited that I have started this journey.
 
-Currently:
-	Student at Codam Coding College, in Amsterdam.
 <!--
 **potatokuka/potatokuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
