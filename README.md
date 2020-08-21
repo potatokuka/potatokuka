@@ -1,7 +1,7 @@
 <p align="center">
 Hi, I'm <strong>Griffin!</strong><br>
 	From California, now in Amsterdam.<br>
-<em>Currently:</em><br>
+<i>Currently:</i><br>
 Student at ***Codam Coding College***, in Amsterdam.<br>
 Traveled the world for work for a few years.<br>
 You can find a mixture of school projects and personal tidbits here!
