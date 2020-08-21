@@ -1,13 +1,13 @@
-Hi, I'm **Griffin**!
-
-From California, now in Amsterdam.
-
-
+<table>
+	<tr>
+		<td>Hi, I'm **Griffin**!</td>
+	From California, now in Amsterdam.
 *Currently:*
-	Student at ***Codam Coding College***, in Amsterdam.
+Student at ***Codam Coding College***, in Amsterdam.
 Traveled the world for work for a few years. You can find
 a mixture of school projects and personal tidbits here!
-
+	</tr>
+</table>
 <!--
 **potatokuka/potatokuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
