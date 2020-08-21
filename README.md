@@ -5,8 +5,8 @@ From California, now in Amsterdam.
 
 *Currently:*
 	Student at ***Codam Coding College***, in Amsterdam.
-Traveled the world for work for a few years. Now you can find
-some of my school projects here.
+Traveled the world for work for a few years. You can find
+a mixture of school projects and personal tidbits here!
 
 <!--
 **potatokuka/potatokuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
