@@ -1,4 +1,4 @@
-<p align="center", style="font-family:monospace;">
+<p style="font-family:monospace,arial,serif;">
 Hi, I'm <strong>Griffin!</strong>
 <br>From California, now in Amsterdam.<br>
 <b>Currently:</b><br>
