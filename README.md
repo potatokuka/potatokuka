@@ -1,4 +1,4 @@
-<p>Hi, I'm **Griffin**!
+<p align="center">Hi, I'm **Griffin**!
 From California, now in Amsterdam.
 *Currently:*
 Student at ***Codam Coding College***, in Amsterdam.
