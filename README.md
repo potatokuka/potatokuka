@@ -1,5 +1,5 @@
 <p align="center">
-Hi, I'm <strong>Griffin!</strong>
+Hi, I'm <strong>Griffin!</strong><br>
 	From California, now in Amsterdam.<br>
 <em>Currently:</em><br>
 Student at ***Codam Coding College***, in Amsterdam.<br>
