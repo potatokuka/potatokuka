@@ -5,3 +5,5 @@
 
 Student at <a href="https://www.codam.nl">Codam Coding College</a>
 Interested in **Cyber Security**. **Scroll down! For current and past work!**
+
+<p><sub><sup>Art by Matt Bailey</sup></sub></p>
