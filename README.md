@@ -8,7 +8,7 @@ Interested in **Cyber Security.**
 
 Scroll down! For current and past work!
 
-<p><sub><sup>Link to other Codam Members I currently with with</sup></sub></p>
+<p><sub>Link to other Codam Members I currently with with</sub></p>
 
 [![github](https://img.shields.io/badge/-@VictorTennekes-313131?style=flat-square&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/VictorTennekes/)
 [![github](https://img.shields.io/badge/-@Tishj-313131?style=flat-square&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/Tishj//)
