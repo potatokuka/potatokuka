@@ -11,6 +11,6 @@ Scroll down! For current and past work!
 <p><sub>Collaborators I support:</sub></p>
 
 [![github](https://img.shields.io/badge/-@VictorTennekes-313131?style=flat-square&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/VictorTennekes/)
-[![github](https://img.shields.io/badge/-@Tishj-313131?style=flat-square&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/Tishj//)
 [![github](https://img.shields.io/badge/-@sanderlegit-313131?style=flat-square&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/sanderlegit/)
+[![github](https://img.shields.io/badge/-@Tishj-313131?style=flat-square&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/Tishj//)
 [![github](https://img.shields.io/badge/-@pde_bakk-313131?style=flat-square&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/pde-bakk/)
