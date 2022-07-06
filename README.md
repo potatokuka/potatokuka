@@ -3,8 +3,7 @@
 [![instagram](https://img.shields.io/badge/-@im.natas-313131?style=flat-square&labelColor=313131&logo=instagram&logoColor=white&color=313131)](https://www.instagram.com/im.natas/)
 [![linkedin](https://img.shields.io/badge/-@griffin_reed-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/griffin-reed-5b6a751b5/)
 
-Student at [Codam Coding College](https://www.codam.nl)
-Interested in **Cyber Security.**
+Dev Sec Ops
 
 Scroll down! For current and past work!
 
